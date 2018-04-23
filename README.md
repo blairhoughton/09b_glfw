@@ -16,11 +16,11 @@ will eventually be ported to WebGL.
 
 ## Installation
 
-Copy the code to a directory named 09b_glfw and type
+Copy the code, go into the code directory, and type
 
 	make
 
-on the command line.
+on the command line. The executable will be in the current directory.
 
 ## Running
 
@@ -28,7 +28,7 @@ Type
 
 	./09b_glfw
 
-to execute the program.
+on the command line to execute the program.
 
 ## Contributors
 
