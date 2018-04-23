@@ -1,5 +1,5 @@
 
-EXECUTABLE = $(shell basename $(CURDIR))
+EXECUTABLE = 09b_glfw
 HEADERS    = $(wildcard *.h)
 SOURCES    = $(wildcard *.cpp)
 OBJS       = $(patsubst %.cpp,%.o,$(SOURCES))
