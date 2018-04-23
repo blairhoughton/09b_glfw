@@ -30,6 +30,10 @@ Type
 
 on the command line to execute the program.
 
+## Sample
+
+To see a short video of the program in operation, open `./video/09b_glfw_video.mp4`
+
 ## Contributors
 
 This code does not need maintaining at this time.
