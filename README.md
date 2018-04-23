@@ -16,6 +16,9 @@ will eventually be ported to WebGL.
 
 ## Installation
 
+You may need to install libglfw3, g++, or other dependencies to get it to build
+if your machine is particularly vanilla. Welcome to Linux.
+
 Copy the code, go into the code directory, and type
 
 	make
